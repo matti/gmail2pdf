@@ -1,0 +1,6 @@
+credentials.json
+token.yaml
+.DS_Store
+pages/
+tmp/
+*.pdf
